@@ -1,3 +1,25 @@
+### Git安装
+#### Windows
+对于Windwos系统，安装方法如下：
+1. 访问`https://git-scm.com/`
+   ![image](https://github.com/user-attachments/assets/7e7660e5-c4fb-44b6-8207-8cb6e46d0c1b)
+
+2. 直接点击为windows安装
+   ![image](https://github.com/user-attachments/assets/28cb45ee-0e65-4057-b4ec-5cfa5296e7b8)
+
+3. 选择适合自己的Git版本
+  ![image](https://github.com/user-attachments/assets/8a481899-f348-4366-831c-c8924900254e)
+
+4. 在安装时，需要选择组件（Select Components）。要保证有勾选其中的两个框：即“Windows Explorer integration”中的 **“Git Bash Here”和“Git GUI Here”** 。其它保持默认即可
+![image](https://github.com/user-attachments/assets/f86e4cbc-828d-41c5-aea8-964a93e0f059)
+
+5. 安装后，右键可以看到两个图标（当然如果是win11，别忘记点击“显示更多选项”）
+   ![image](https://github.com/user-attachments/assets/e9ba249c-8239-446e-851d-1bf54b4d5008)
+
+1. 点击“Git Bash Here”，会看到一个类似windows中cmd命令行窗口的页面（许多和git相关的命令，就是在这个小窗口输入与执行的）。输入`git version`，可以看到git的版本号
+![image](https://github.com/user-attachments/assets/98ef0190-11e1-4679-a2d1-4ac674afa7fe)
+
+
 ### Git配置
 
 ```bash
